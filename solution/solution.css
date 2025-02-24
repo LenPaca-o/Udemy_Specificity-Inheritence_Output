@@ -1,0 +1,9 @@
+#outer-box {
+  background-color: purple;
+}
+
+.box {
+  background-color: blue;
+  padding: 10px;
+}
+
